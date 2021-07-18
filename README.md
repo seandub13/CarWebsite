@@ -1,6 +1,6 @@
 # CarTrawler Test
 
-For the given test, I have created a site that shows the available cars the given JSON file.
+For the given test, I have created a site that shows the available cars from a given url feed [here](http://www.cartrawler.com/ctabe/cars.json).
 The website loads functions from the JavaScript file to show the data and bootstrap 5.0 was used to style the majority of the website.
 
 The website has four key files:
